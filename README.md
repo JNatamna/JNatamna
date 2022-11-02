@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joachim Noor Atamna</h1>
 <h3 align="center">A software developer from Norway with specialization in Game-Dev!</h3>
 
-I am a futurology enthusiast and have undertaken courses related to Virual Reality & Augmented Reality as well as a Bachelor in Information-Technology. The tools I am best versed in is Unity. However, I have worked with everything from in-house engines to webpages in the past and I am well familiar with languages ranging everywhere from C# to JS. I want to be a part of creating the systems of the future!
+I am a futurology enthusiast and have undertaken courses related to Virual Reality & Augmented Reality as well as a Bachelor in Information-Technology. The tools I am best versed in is Unity. However, I have worked with everything from in-house engines to webpages in the past and I am well familiar with languages ranging everywhere from C# to JS. I aspire to work with and create the systems of the future!
 
 - 🌱 I’m currently learning **Unreal Engine 5**
 
