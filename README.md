@@ -7,7 +7,7 @@ I am a futurology enthusiast and have undertaken courses related to Virual Reali
 
 - 👯 I’m looking to collaborate on **VR/AR or Game projects**
 
-- 👨‍💻 Most of my projects are available at [https://jnatamna.github.io/]([jnatamna.github.io/](https://jnatamna.github.io/))
+- 👨‍💻 Most of my projects are available at [https://jnatamna.github.io/](https://jnatamna.github.io/))
 
 - 📝 I sometimes write articles on [medium.com/@JN.atamna](medium.com/@JN.atamna)
 
